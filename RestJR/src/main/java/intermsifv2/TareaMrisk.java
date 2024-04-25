@@ -93,7 +93,7 @@ public class TareaMrisk {
                 			+ "     \\            .'     |                           |\r\n"
                 			+ "      |     /,_.-'       |        Aplicacion         |\r\n"
                 			+ "    _/   _.'(            |      Desarrollada por:    |\r\n"
-                			+ "   /  ,-' \\  \\           |Alejandro Gonzalez Canuto  |\r\n"
+                			+ "   /  ,-' \\  \\           |         AGC93             |\r\n"
                 			+ "   \\  \\    `-'           |                           |\r\n"
                 			+ "    `-'                   '--------------------------'");
                     // Dividir la línea en partes
